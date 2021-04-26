@@ -12,5 +12,6 @@ El proyecto consta de los siguientes archivos:
 * Proyecto Training: Entrenamiento del modelo y teoría del modelo.
 * Proyecto Testing: Pruebas del modelo y tutorial para la ejecución del modelo en un sistema embebido (Jetson Nano 4GB).
 * ML categorizacion de productos: Artículo del proyecto.
+* Datasets/Food Dataset: Imágenes de entrenamiento para el modelo.
 
 [Video del modelo corriendo en una Jetson Nano de 4GB](https://www.youtube.com/watch?v=n2-q3D62fkw)
